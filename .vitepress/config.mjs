@@ -13,6 +13,15 @@ export default defineConfig({
       { text: '卡牌查询', link: '/cards/' },
       { text: '更新日志', link: '/changelog/' }
     ],
+    vite: {
+    build: {
+      rollupOptions: {
+        external: [
+          /^\/images\/.*/
+        ]
+      }
+    }
+  },
 
     sidebar: {
       // 快速规则页：不显示侧边栏（单页即可）
