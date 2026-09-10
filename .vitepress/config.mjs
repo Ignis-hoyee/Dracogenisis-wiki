@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/Dracogenisis-wiki/"
   title: "Dracogenesis Unofficial Wiki",
   description: "Online Rule book and Card FAQ",
   themeConfig: {
