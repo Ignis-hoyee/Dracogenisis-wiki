@@ -1,6 +1,6 @@
 # 捕猎
 
-![捕猎](/images/cards/skills/classic_skill_01.jpg)
+![捕猎](/public/images/)
 
 ## 效果
 
