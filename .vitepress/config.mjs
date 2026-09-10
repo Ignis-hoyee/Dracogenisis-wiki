@@ -42,7 +42,8 @@ export default defineConfig({
           items: [
             { text: '技能牌列表', link: '/cards/skills/' },
             { text: '采集', link: '/cards/skills/collecting' },
-            { text: '捕猎', link: '/cards/skills/hunting' }
+            { text: '捕猎', link: '/cards/skills/hunting' },
+            { text: '采集龙果树', link: '/cards/skills/havesting'}
             // 以后每加一张卡，在这里加一行
           ]
         },
@@ -56,7 +57,7 @@ export default defineConfig({
           text: '效果调整 / FAQ',
           items: [
             { text: '通用调整', link: '/cards/faq/general' },
-            { text: '火焰冲击', link: '/cards/faq/fire-strike' }
+            { text: '占位符1', link: '/cards/faq/fire-strike' }
           ]
         }
       ]
