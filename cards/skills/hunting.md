@@ -4,11 +4,11 @@
 
 ## 效果
 
-获得1![food](/images/tokens/food.png)
+获得 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 
 ## 播种效果
 
-每年秋季获得 1![food](/images/tokens/food.png)
+每年秋季获得 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 
 ## 小趣事
 

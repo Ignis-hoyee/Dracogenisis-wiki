@@ -50,7 +50,7 @@ export default defineConfig({
           text: '技能牌',
           items: [
             { text: '技能牌列表', link: '/cards/skills/' },
-            { text: '采集', link: '/cards/skills/collecting' },
+            { text: '采集', link: '/cards/skills/gathering' },
             { text: '捕猎', link: '/cards/skills/hunting' },
             { text: '采集龙果树', link: '/cards/skills/havesting'}
             // 以后每加一张卡，在这里加一行
