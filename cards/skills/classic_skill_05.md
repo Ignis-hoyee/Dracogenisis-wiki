@@ -1,4 +1,4 @@
-# 采集
+# 收集浆果丛
 
 ![havesting](/images/cards/skills/classic_skill_05.jpg)
 
@@ -9,6 +9,10 @@
 ## 播种效果
 
 每年秋季获得 1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+
+## 卡片数量
+
+2
 
 ## 小趣事
 

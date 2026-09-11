@@ -10,6 +10,9 @@ hero:
       text: 快速开始
       link: /rules/quickstart
     - theme: alt
+      text: 规则详解
+      link: /rules/full/index
+    - theme: alt
       text: 卡牌数据库
       link: /cards/
 

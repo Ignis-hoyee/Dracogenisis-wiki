@@ -42,28 +42,49 @@ export default defineConfig({
       
       // 卡牌查询：技能牌 + 建筑牌 + FAQ
       '/cards/': [
-        {
-          text: '卡牌总览',
-          link: '/cards/'
-        },
+        //{
+          //text: '卡牌总览',
+          //link: '/cards/'
+        //},
         {
           text: '技能牌',
+          collapsed: true,
           items: [
             { text: '技能牌列表', link: '/cards/skills/' },
-            { text: '采集', link: '/cards/skills/gathering' },
-            { text: '捕猎', link: '/cards/skills/hunting' },
-            { text: '采集龙果树', link: '/cards/skills/havesting'}
+            { text: '采集', link: '/cards/skills/classic_skill_01' },
+            { text: '捕猎', link: '/cards/skills/classic_skill_06' },
+            { text: '收获浆果丛', link: '/cards/skills/classic_skill_05'},
+            { text: '收获蘑菇树桩', link: '/cards/skills/skill_01'},
+            { text: '收获龙果树', link: '/cards/skills/skill_02'},
+            { text: '高效捕猎', link: '/cards/skills/skill_03'},
+            { text: '高效采集', link: '/cards/skills/skill_04'},
+            { text: '掠夺商队', link: '/cards/skills/skill_05'},
+            { text: '掠夺矿山', link: '/cards/skills/skill_06'},
+            { text: '传承技艺', link: '/cards/skills/skill_07'},
+            { text: '传承财富', link: '/cards/skills/skill_08'},
+            { text: '展翅翱翔', link: '/cards/skills/skill_09'},
+            { text: '顺手掠夺', link: '/cards/skills/skill_10'},
+            { text: '顺手采集', link: '/cards/skills/skill_11'},
+            { text: '顺手捕猎', link: '/cards/skills/skill_12'},
+            { text: '按需分配', link: '/cards/skills/skill_13'},
+            { text: '按需分配', link: '/cards/skills/skill_14'},
+            { text: '采购物资', link: '/cards/skills/skill_14'},
+            { text: '伐木动员', link: '/cards/skills/skill_15'},
+            { text: '磨练技艺', link: '/cards/skills/skill_16'},
+            { text: '一网打尽', link: '/cards/skills/skill_17'}
             // 以后每加一张卡，在这里加一行
           ]
         },
         {
           text: '奇观牌',
+          collapsed: true,
           items: [
             { text: '奇观牌总览', link: '/cards/wonders/' }
           ]
         },
         {
           text: '效果调整 / FAQ',
+          collapsed: true,
           items: [
             { text: '通用调整', link: '/cards/faq/general' },
             { text: '占位符1', link: '/cards/faq/fire-strike' }
