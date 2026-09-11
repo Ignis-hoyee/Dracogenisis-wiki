@@ -12,15 +12,15 @@
 
 | 卡名 | 数量 | 卡图 |
 | --- | --- | --- |
-| 卡背 | / | ![skillcardback](/images/cards/skills/skill_00.jpg) |
+| 卡背 | / | ![SkillCardBack](/images/cards/skills/skill_00.jpg) |
 | 收获蘑菇树桩 | 2 | ![GatheringTheMushroomTree](/images/cards/skills/skill_01.jpg) |
 | 收获龙果树 | 2 | ![GatheringTheDragonFruit](/images/cards/skills/skill_02.jpg) |
 | 高效捕猎 | 2 | ![HuntingPlus](/images/cards/skills/skill_03.jpg) |
 | 高效采集 | 2 | ![GatheringPlus](/images/cards/skills/skill_04.jpg) |
-| 掠夺商队 | 2 | ![Lootingtrader](/images/cards/skills/skill_05.jpg) |
+| 掠夺商队 | 2 | ![LootingTrader](/images/cards/skills/skill_05.jpg) |
 | 掠夺矿山 | 2 | ![LootingMine](/images/cards/skills/skill_06.jpg) |
-| 传承技艺 | 2 | ![shareingskill](/images/cards/skills/skill_07.jpg) |
-| 传承财富 | 2 | ![shareingProperty](/images/cards/skills/skill_08.jpg) |
+| 传承技艺 | 2 | ![ShareingSkill](/images/cards/skills/skill_07.jpg) |
+| 传承财富 | 2 | ![ShareingProperty](/images/cards/skills/skill_08.jpg) |
 | 展翅翱翔 | 2 | ![WingsUp](/images/cards/skills/skill_09.jpg) |
 | 顺手掠夺 | 2 | ![QuickLooting](/images/cards/skills/skill_10.jpg) |
 | 顺手采集 | 2 | ![QuickGathering](/images/cards/skills/skill_11.jpg) |

@@ -68,7 +68,6 @@ export default defineConfig({
             { text: '顺手捕猎', link: '/cards/skills/skill_12'},
             { text: '按需分配', link: '/cards/skills/skill_13'},
             { text: '按需分配', link: '/cards/skills/skill_14'},
-            { text: '采购物资', link: '/cards/skills/skill_14'},
             { text: '伐木动员', link: '/cards/skills/skill_15'},
             { text: '磨练技艺', link: '/cards/skills/skill_16'},
             { text: '一网打尽', link: '/cards/skills/skill_17'}
