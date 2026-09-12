@@ -17,7 +17,7 @@
 ## 分值
 
 ![point](/images/tokens/point_01.png)
-dd
+
 ## 小趣事
 
 ## Stuff
