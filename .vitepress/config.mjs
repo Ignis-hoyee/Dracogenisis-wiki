@@ -10,7 +10,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '快速规则', link: '/rules/quickstart' },
       { text: '完整规则', link: '/rules/full/' },
-      { text: '卡牌查询', link: '/cards/' },
+      { text: '卡牌查询', link: '/cards/skills/' },
       { text: '更新日志', link: '/changelog/' }
     ],
     vite: {

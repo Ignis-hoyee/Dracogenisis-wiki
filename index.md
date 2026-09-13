@@ -14,7 +14,7 @@ hero:
       link: /rules/full/index
     - theme: alt
       text: 卡牌数据库
-      link: /cards/
+      link: /cards/skills/index
 
 features:
   - title: 规则详解
