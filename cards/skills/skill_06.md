@@ -21,8 +21,8 @@
 
 ## 小趣事
 
-这张牌的牌面效果在某些特定板块组合下产出量会十分恐怖，莫名其妙看别人的钱滚的飞快也算是新手必吃榜的一环。
-这张牌的英文卡名暂定为Looting Mine，so who is looting mine??
+- 这张牌的牌面效果在某些特定板块组合下产出量会十分恐怖~~伟大，无需多言~~
+- 这张牌的英文卡名暂定为Looting Mine，so who is looting mine??
 
 ## Stuff
 
