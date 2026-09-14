@@ -33,6 +33,6 @@
 | 熔岩火山 | 1 | ![Volcano](/images/cards/wonders/wonder_26.jpg) |
 | 冰川残骸 | 1 | ![GlacialDebris](/images/cards/wonders/wonder_27.jpg) |
 | 水运浑天仪 | 1 | ![ArmillarySphere](/images/cards/wonders/wonder_28.jpg) |
-| 特洛伊城 | 1 | ![Trojan](/images/cards/wonders/wonder_29.jpg) |
-| 佩特拉城 | 1 | ![Petra](/images/cards/wonders/wonder_30.jpg) |
-| 大图书馆 | 1 | ![Library](/images/cards/wonders/wonder_31.jpg) |
+<!-- | 特洛伊城 | 1 | ![Trojan](/images/cards/wonders/wonder_29.jpg) | -->
+<!-- | 佩特拉城 | 1 | ![Petra](/images/cards/wonders/wonder_30.jpg) | -->
+<!-- | 大图书馆 | 1 | ![Library](/images/cards/wonders/wonder_31.jpg) | -->
