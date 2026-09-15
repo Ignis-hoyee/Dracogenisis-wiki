@@ -5,6 +5,9 @@ export default defineConfig({
   base: "/Dracogenisis-wiki/",
   title: "Dracogenesis Unofficial Wiki",
   description: "非官方规则与卡牌数据库",
+  head: [
+    ['link', { rel: 'icon', href: '/images/tokens/logo.ico' }]
+  ],
   themeConfig: {
     logo: '/images/tokens/gold-icon.png',
     nav: [
