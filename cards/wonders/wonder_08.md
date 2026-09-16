@@ -4,7 +4,7 @@
 
 ## 效果
 
-你的每年第一次[狩猎行动]<img src="/images/tokens/hunting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />获得的资源额外+2
+你的每年第一次[狩猎行动] <img src="/images/tokens/hunting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />获得的资源额外+2
 
 ## 分值
 
@@ -12,7 +12,7 @@
 
 ## 效果调整
 
-- 注意是[狩猎行动]<img src="/images/tokens/hunting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />获得的资源，而不是[派遣时的获得狩猎奖励]。二者需要区分。
+- 注意是[狩猎行动] <img src="/images/tokens/hunting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />获得的资源，而不是[派遣时的获得狩猎奖励]。二者需要区分。
 
 ## 小趣事
 
