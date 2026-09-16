@@ -4,7 +4,7 @@
 
 ## 效果
 
-执行1次<img src="/images/tokens/Hunting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，此次狩猎获得的资源额外+2。
+执行1次<img src="/images/tokens/hunting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，此次狩猎获得的资源额外+2。
 
 ## 播种效果
 
