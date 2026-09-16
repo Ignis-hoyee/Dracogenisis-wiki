@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/images/tokens/gold-icon.png' }]
+  ],
   base: "/Dracogenisis-wiki/",
   title: "Dracogenesis Unofficial Wiki",
   description: "非官方规则与卡牌数据库",
-  head: [
-    ['link', { rel: 'icon', href: '/images/tokens/logo.ico' }]
-  ],
   themeConfig: {
     logo: '/images/tokens/gold-icon.png',
     nav: [

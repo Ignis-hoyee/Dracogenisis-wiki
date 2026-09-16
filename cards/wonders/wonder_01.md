@@ -4,11 +4,11 @@
 
 ## 效果
 
-图案抠图中
+你的[筑巢行动]<img src="/images/tokens/nesting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> 花费-2<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 
 ## 分值
 
-分值图案抠图中
+2
 
 ## 效果调整
 

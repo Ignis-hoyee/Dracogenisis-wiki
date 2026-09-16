@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: 卡牌数据库
       link: /cards/skills/index
+    - theme: alt
+      text: 梗&表情包
+      link: /memes/index
 
 features:
   - title: 规则详解
