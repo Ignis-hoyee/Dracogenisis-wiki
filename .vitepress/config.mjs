@@ -108,9 +108,9 @@ export default defineConfig({
             { text: '熔岩火山', link: '/cards/wonders/wonder_26' },
             { text: '冰川残骸', link: '/cards/wonders/wonder_27' },
             { text: '水运浑天仪', link: '/cards/wonders/wonder_28' },
-            { text: '特洛伊城', link: '/cards/wonders/wonder_29' },
-            { text: '佩特拉城', link: '/cards/wonders/wonder_30' },
-            { text: '大图书馆', link: '/cards/wonders/wonder_31' }
+            { text: '特洛伊城（待完善）', link: '/cards/wonders/wonder_29' },
+            { text: '佩特拉城（待完善）', link: '/cards/wonders/wonder_30' },
+            { text: '大图书馆（待完善）', link: '/cards/wonders/wonder_31' }
           ]
         },
         {

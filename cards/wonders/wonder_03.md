@@ -15,7 +15,7 @@
 ## 效果调整
 
 - 并非先获得<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />后再筑巢。
-- [空中花园]、开拓岛屿奖励等放置的巢穴不属于筑巢行动，不能获得此<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />奖励。
+- [空中花园](wonder_21.md)、[开拓岛屿]奖励等放置的巢穴不属于[筑巢行动]<img src="/images/tokens/nesting-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，不能获得此<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />奖励。
 
 ## 小趣事
 
