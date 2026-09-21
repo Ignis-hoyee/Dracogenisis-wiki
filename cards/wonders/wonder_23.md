@@ -1,6 +1,10 @@
 # 生命之树
 
+<<div class='vp-infobox'>
+
 ![Hachayim](/images/cards/wonders/wonder_23.jpg)
+
+</div>
 
 ## 效果
 

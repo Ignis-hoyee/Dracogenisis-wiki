@@ -1,6 +1,10 @@
 # 兵马俑
 
+<div class='vp-infobox'>
+
 ![TerracottaWarriors](/images/cards/wonders/wonder_17.jpg)
+
+</div>
 
 ## 效果
 

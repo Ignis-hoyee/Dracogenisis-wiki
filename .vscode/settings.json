@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+    "markdown": "html"
+  },
+  "markdown.validate.enabled": true
+}

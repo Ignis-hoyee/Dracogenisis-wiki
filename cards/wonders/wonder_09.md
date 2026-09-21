@@ -1,6 +1,10 @@
 # 地热温泉
 
+<div class='vp-infobox'>
+
 ![HotSpring](/images/cards/wonders/wonder_09.jpg)
+
+</div>
 
 ## 效果
 

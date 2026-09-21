@@ -1,6 +1,10 @@
 # 炼金实验室
 
+<div class='vp-infobox'>
+
 ![AlchemyLab](/images/cards/wonders/wonder_20.jpg)
+
+</div>
 
 ## 效果
 

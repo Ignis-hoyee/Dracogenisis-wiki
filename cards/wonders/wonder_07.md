@@ -1,6 +1,10 @@
 # 智慧宫
 
+<div class='vp-infobox'>
+
 ![PalaceOfWisdom](/images/cards/wonders/wonder_07.jpg)
+
+</div>
 
 ## 效果
 

@@ -1,6 +1,10 @@
 # 大金字塔
 
+<div class='vp-infobox'>
+
 ![Pyramid](/images/cards/wonders/wonder_06.jpg)
+
+</div>
 
 ## 效果
 

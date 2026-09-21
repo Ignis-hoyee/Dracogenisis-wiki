@@ -1,6 +1,10 @@
 # 巨龙雕像
 
+<div class='vp-infobox'>
+
 ![DragonStatue](/images/cards/wonders/wonder_24.jpg)
+
+</div>
 
 ## 效果
 

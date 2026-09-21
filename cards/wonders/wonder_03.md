@@ -1,6 +1,10 @@
 # 黄金塔
 
+<div class='vp-infobox'>
+
 ![TorreDelOro](/images/cards/wonders/wonder_03.jpg)
+
+</div>
 
 ## 效果
 

@@ -1,6 +1,10 @@
 # 大浴场
 
+<div class='vp-infobox'>
+
 ![Bathhouse](/images/cards/wonders/wonder_14.jpg)
+
+</div>
 
 ## 效果
 

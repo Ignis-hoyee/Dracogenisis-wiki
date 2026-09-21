@@ -1,6 +1,10 @@
 # 龙墓
 
+<div class='vp-infobox'>
+
 ![DragonCemetery](/images/cards/wonders/wonder_10.jpg)
+
+</div>
 
 ## 效果
 

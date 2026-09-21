@@ -1,6 +1,10 @@
 # 伐木小屋
 
+<div class='vp-infobox'>
+
 ![LumberingHouse](/images/cards/wonders/wonder_12.jpg)
+
+</div>
 
 ## 效果
 

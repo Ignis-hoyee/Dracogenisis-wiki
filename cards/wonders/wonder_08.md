@@ -1,6 +1,10 @@
 # 猎手神庙
 
+<div class='vp-infobox'>
+
 ![HunterShrine](/images/cards/wonders/wonder_08.jpg)
+
+</div>
 
 ## 效果
 

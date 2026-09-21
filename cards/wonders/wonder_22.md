@@ -1,6 +1,10 @@
 # 巨龙神庙
 
+<div class='vp-infobox'>
+
 ![DragonShrine](/images/cards/wonders/wonder_22.jpg)
+
+</div>
 
 ## 效果
 

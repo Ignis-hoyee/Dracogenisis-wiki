@@ -1,6 +1,10 @@
 # 天空学院
 
+<div class='vp-infobox'>
+
 ![SkyAcademy](/images/cards/wonders/wonder_19.jpg)
+
+</div>
 
 ## 效果
 

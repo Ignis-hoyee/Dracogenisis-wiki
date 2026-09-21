@@ -1,6 +1,10 @@
 # 芦苇棚屋
 
+<div class='vp-infobox'>
+
 ![ReedShanty](/images/cards/wonders/wonder_11.jpg)
+
+</div>
 
 ## 效果
 

@@ -1,6 +1,10 @@
 # 巨石阵
 
+<div class='vp-infobox'>
+
 ![Stonehenge](/images/cards/wonders/wonder_01.jpg)
+
+</div>
 
 ## 效果
 

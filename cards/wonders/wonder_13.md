@@ -1,6 +1,10 @@
 # 琉璃宝塔
 
+<div class='vp-infobox'>
+
 ![PorcelainTower](/images/cards/wonders/wonder_13.jpg)
+
+</div>
 
 ## 效果
 

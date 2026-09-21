@@ -1,6 +1,10 @@
 # 大竞技场
 
+<div class='vp-infobox'>
+
 ![Colosseum](/images/cards/wonders/wonder_25.jpg)
+
+</div>
 
 ## 效果
 

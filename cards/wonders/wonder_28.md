@@ -1,6 +1,10 @@
 # 水运浑天仪
 
+<div class='vp-infobox'>
+
 ![ArmillarySphere](/images/cards/wonders/wonder_28.jpg)
+
+</div>
 
 ## 效果
 

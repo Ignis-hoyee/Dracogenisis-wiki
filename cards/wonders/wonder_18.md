@@ -1,6 +1,10 @@
 # 地下水宫
 
+<div class='vp-infobox'>
+
 ![BasilicaCistern](/images/cards/wonders/wonder_18.jpg)
+
+</div>
 
 ## 效果
 
@@ -17,4 +21,3 @@
 ## Stuff
 
 绘制：星语无限
-a

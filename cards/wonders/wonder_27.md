@@ -1,6 +1,10 @@
 # 冰川残骸
 
+<div class='vp-infobox'>
+
 ![GlacialDebris](/images/cards/wonders/wonder_27.jpg)
+
+</div>
 
 ## 效果
 

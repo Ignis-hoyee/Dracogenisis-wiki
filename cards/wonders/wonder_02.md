@@ -1,6 +1,10 @@
 # 博览会馆
 
+<div class='vp-infobox'>
+
 ![Museum](/images/cards/wonders/wonder_02.jpg)
+
+</div>
 
 ## 效果
 

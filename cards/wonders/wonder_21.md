@@ -1,6 +1,10 @@
 # 空中花园
 
+<div class='vp-infobox'>
+
 ![SkyGarden](/images/cards/wonders/wonder_21.jpg)
+
+</div>
 
 ## 效果
 

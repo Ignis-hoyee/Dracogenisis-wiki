@@ -1,6 +1,10 @@
 # 扎实地基
 
+<div class='vp-infobox'>
+
 ![Foundation](/images/cards/wonders/wonder_05.jpg)
+
+</div>
 
 ## 效果
 

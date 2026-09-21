@@ -1,6 +1,10 @@
 # 熔岩火山
 
+<div class='vp-infobox'>
+
 ![Volcano](/images/cards/wonders/wonder_26.jpg)
+
+</div>
 
 ## 效果
 

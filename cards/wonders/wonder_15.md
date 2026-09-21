@@ -1,6 +1,10 @@
 # 城堡
 
+<div class='vp-infobox'>
+
 ![Castle](/images/cards/wonders/wonder_15.jpg)
+
+</div>
 
 ## 效果
 

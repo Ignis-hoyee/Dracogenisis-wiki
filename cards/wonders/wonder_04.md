@@ -1,6 +1,10 @@
 # 大巴扎
 
+<div class='vp-infobox'>
+
 ![Bazaar](/images/cards/wonders/wonder_04.jpg)
+
+</div>
 
 ## 效果
 

@@ -1,6 +1,10 @@
 # 水渠
 
+<div class='vp-infobox'>
+
 ![Ditch](/images/cards/wonders/wonder_16.jpg)
+
+</div>
 
 ## 效果
 
