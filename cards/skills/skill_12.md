@@ -1,6 +1,10 @@
 # 顺手捕猎
 
+<div class='vp-infobox'>
+
 ![QuickHunting](/images/cards/skills/skill_12.jpg)
+
+</div>
 
 ## 效果
 

@@ -1,6 +1,10 @@
 # 掠夺商队
 
+<div class='vp-infobox'>
+
 ![LootingTrader](/images/cards/skills/skill_05.jpg)
+
+</div>
 
 ## 效果
 

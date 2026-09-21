@@ -1,6 +1,10 @@
 # 一网打尽
 
+<div class='vp-infobox'>
+
 ![Gotcha!](/images/cards/skills/skill_17.jpg)
+
+</div>
 
 ## 效果
 

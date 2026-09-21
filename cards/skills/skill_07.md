@@ -1,6 +1,10 @@
 # 传承技艺
 
+<div class='vp-infobox'>
+
 ![ShareingSkill](/images/cards/skills/skill_07.jpg)
+
+</div>
 
 ## 效果
 

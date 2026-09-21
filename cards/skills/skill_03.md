@@ -1,6 +1,10 @@
 # 高效捕猎
 
+<div class='vp-infobox'>
+
 ![HuntingPlus](/images/cards/skills/skill_03.jpg)
+
+</div>
 
 ## 效果
 

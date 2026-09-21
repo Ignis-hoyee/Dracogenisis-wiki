@@ -1,6 +1,10 @@
 # 磨练技艺
 
+<div class='vp-infobox'>
+
 ![Trainingskill](/images/cards/skills/skill_16.jpg)
+
+</div>
 
 ## 效果
 

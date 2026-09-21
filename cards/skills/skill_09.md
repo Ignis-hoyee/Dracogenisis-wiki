@@ -1,10 +1,14 @@
 # 展翅翱翔
 
+<div class='vp-infobox'>
+
 ![WingsUp](/images/cards/skills/skill_09.jpg)
+
+</div>
 
 ## 效果
 
-你可以重新派遣1只站着的龙，并获得[狩猎奖励]()
+你可以重新派遣1只站着的龙，并获得[狩猎奖励]
 
 ## 播种效果
 

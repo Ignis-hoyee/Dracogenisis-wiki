@@ -1,6 +1,10 @@
 # 收获龙果树
 
+<div class='vp-infobox'>
+
 ![GatheringTheDragonFruit](/images/cards/skills/skill_02.jpg)
+
+</div>
 
 ## 效果
 

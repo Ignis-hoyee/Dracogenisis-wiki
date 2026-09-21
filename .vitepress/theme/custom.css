@@ -1,0 +1,120 @@
+/* ============================================
+   信息框 (Infobox) 样式
+   作用：让卡牌/角色信息浮动显示在正文右侧
+   ============================================ */
+
+/* 主容器：浮动在右侧 */
+.vp-infobox {
+  float: right;              /* 向右浮动 */
+  clear: right;              /* 避免多个信息框堆叠混乱 */
+  width: 280px;              /* 固定宽度，可自行调整 */
+  margin: 0 0 1.5rem 1.5rem; /* 上右下左：左侧留出与正文的间距 */
+  
+  /* 视觉样式：使用 VitePress 主题变量，自动适配暗黑/亮色模式 */
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
+/* 信息框标题 */
+.vp-infobox h4 {
+  margin: 0 0 0.75rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--vp-c-brand-1); /* 用主题品牌色做底边 */
+  font-size: 1.05rem;
+  color: var(--vp-c-brand-1);
+}
+
+/* 信息框内的表格：无边框紧凑样式 */
+.vp-infobox table {
+  width: 100%;
+  margin: 0;
+  display: table;            /* 覆盖 VitePress 默认的 table 样式 */
+}
+
+.vp-infobox tr {
+  border: none;
+}
+
+.vp-infobox td {
+  border: none;
+  padding: 0.35rem 0;
+  vertical-align: top;
+}
+
+/* 第一列（属性名）灰色、窄一点 */
+.vp-infobox td:first-child {
+  color: var(--vp-c-text-2);
+  width: 35%;
+  font-weight: 500;
+}
+
+/* ============================================
+   移动端适配：屏幕窄时取消浮动，占满宽度
+   ============================================ */
+@media (max-width: 768px) {
+  .vp-infobox {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+/* ============================================
+   可选：吸顶模式（Sticky）
+   作用：滚动时信息框固定在屏幕顶部，方便对照
+   用法：在 HTML 里把 class="vp-infobox" 改成 class="vp-infobox vp-infobox-sticky"
+   ============================================ */
+.vp-infobox-sticky {
+  position: sticky;
+  top: 80px;                 /* 距离视口顶部 80px，避开导航栏 */
+  float: right;
+  clear: right;
+  width: 280px;
+  margin: 0 0 1.5rem 1.5rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+  padding: 1rem;
+  font-size: 0.9rem;
+  max-height: calc(100vh - 100px); /* 防止超长时溢出屏幕 */
+  overflow-y: auto;
+}
+
+/* 移动端：吸顶模式也取消 */
+@media (max-width: 768px) {
+  .vp-infobox-sticky {
+    position: static;        /* 恢复普通文档流 */
+    width: 100%;
+    margin: 1rem 0;
+    max-height: none;
+  }
+}
+
+/* ============================================
+   修复 infobox 与 VitePress 章节分割线的冲突
+   ============================================ */
+
+/* 1. 提升 infobox 层级，确保它"浮"在分割线之上 */
+.vp-infobox,
+.vp-infobox-sticky {
+  position: relative;
+  z-index: 10;
+}
+
+/* 2. 关键修复：让 h2 创建独立的块格式化上下文
+   VitePress 默认给每个 h2 加了 border-top 作为章节分割线。
+   当 infobox 用 float:right 时，h2 的 border 会被 float 干扰，
+   导致分割线位置异常或"断掉"。
+   display: flow-root 会让 h2 正确包裹自己的内容，
+   不受旁边浮动元素影响，同时保持并排布局（不会被推到下方）。 */
+.vp-doc h2 {
+  display: flow-root;
+}
+
+/* 3. 如果你也在 Markdown 里用了 ---（hr 水平分割线），同样处理 */
+.vp-doc hr {
+  display: flow-root;
+}

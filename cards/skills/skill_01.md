@@ -1,6 +1,10 @@
 # 收获蘑菇树桩
 
+<div class='vp-infobox'>
+
 ![GatheringTheMushroomTree](/images/cards/skills/skill_01.jpg)
+
+</div>
 
 ## 效果
 

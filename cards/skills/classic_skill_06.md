@@ -1,6 +1,10 @@
 # 采集
 
+<div class='vp-infobox'>
+
 ![gathering](/images/cards/skills/classic_skill_06.jpg)
+
+</div>
 
 ## 效果
 

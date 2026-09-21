@@ -1,6 +1,10 @@
 # 伐木动员
 
+<div class='vp-infobox'>
+
 ![LoggingTogether](/images/cards/skills/skill_15.jpg)
+
+</div>
 
 ## 效果
 

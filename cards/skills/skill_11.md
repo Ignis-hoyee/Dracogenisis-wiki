@@ -1,6 +1,10 @@
 # 顺手采集
 
+<div class='vp-infobox'>
+
 ![QuickGathering](/images/cards/skills/skill_11.jpg)
+
+</div>
 
 ## 效果
 

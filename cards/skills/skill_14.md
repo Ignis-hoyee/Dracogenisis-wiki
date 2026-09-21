@@ -1,6 +1,10 @@
 # 采购物资
 
+<div class='vp-infobox'>
+
 ![Tradeing](/images/cards/skills/skill_14.jpg)
+
+</div>
 
 ## 效果
 

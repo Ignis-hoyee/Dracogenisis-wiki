@@ -1,6 +1,10 @@
 # 传承财富
 
+<div class='vp-infobox'>
+
 ![ShareingProperty](/images/cards/skills/skill_08.jpg)
+
+</div>
 
 ## 效果
 

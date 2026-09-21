@@ -1,6 +1,10 @@
 # 高效采集
 
+<div class='vp-infobox'>
+
 ![HuntingPlus](/images/cards/skills/skill_04.jpg)
+
+</div>
 
 ## 效果
 

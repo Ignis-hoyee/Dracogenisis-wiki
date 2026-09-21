@@ -1,6 +1,10 @@
 # 顺手掠夺
 
+<div class='vp-infobox'>
+
 ![QuickLooting](/images/cards/skills/skill_10.jpg)
+
+</div>
 
 ## 效果
 

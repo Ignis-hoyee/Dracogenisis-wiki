@@ -1,6 +1,10 @@
 # 捕猎
 
+<div class='vp-infobox'>
+
 ![Hunting](/images/cards/skills/classic_skill_01.jpg)
+
+</div>
 
 ## 效果
 

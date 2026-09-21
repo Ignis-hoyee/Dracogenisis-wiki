@@ -1,6 +1,10 @@
 # 收集浆果丛
 
+<div class='vp-infobox'>
+
 ![havesting](/images/cards/skills/classic_skill_05.jpg)
+
+</div>
 
 ## 效果
 
@@ -12,7 +16,7 @@
 
 ## 卡片数量
 
-2
+1（每位玩家）
 
 ## 小趣事
 

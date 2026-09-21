@@ -1,6 +1,10 @@
 # 按需分配
 
+<div class='vp-infobox'>
+
 ![Allocating](/images/cards/skills/skill_13.jpg)
+
+</div>
 
 ## 效果
 

@@ -1,6 +1,10 @@
 # 掠夺矿山
 
+<div class='vp-infobox'>
+
 ![LootingMine](/images/cards/skills/skill_06.jpg)
+
+</div>
 
 ## 效果
 
@@ -21,7 +25,7 @@
 
 ## 小趣事
 
-- 这张牌的牌面效果在某些特定板块组合下产出量会十分恐怖~~伟大，无需多言~~
+- 这张牌的牌面效果在某些特定板块组合下产出量会十分恐怖 ~~伟大，无需多言~~
 - 这张牌的英文卡名暂定为Looting Mine，so who is looting mine??
 
 ## Stuff
