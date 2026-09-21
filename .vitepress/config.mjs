@@ -11,11 +11,22 @@ export default defineConfig({
   themeConfig: {
     logo: '/images/tokens/gold-icon.png',
     nav: [
+      { text: '摩点官页', link: 'https://zhongchou.modian.com/item/158999.html' },
       { text: '首页', link: '/' },
-      { text: '快速规则', link: '/rules/quickstart' },
-      { text: '完整规则', link: '/rules/full/' },
-      { text: '卡牌查询', link: '/cards/skills/' },
-      { text: '更新日志', link: '/changelog/' }
+      { text: '规则', 
+        items: [
+          { text: '快速规则', link: '/rules/quickstart' },
+          { text: '完整规则', link: '/rules/full/'},
+          { text: '规则裁定', link: '/rules/faq/' }
+        ]
+      },
+      { text: '卡牌查询', 
+        items: [
+          { text: '技能牌', link: '/cards/skills/' },
+          { text: '奇观牌', link: '/cards/wonders/' },
+          { text: '纪念碑', link: '/cards/monuments/' }
+        ]
+      }
     ],
     vite: {
       build: {
@@ -50,9 +61,9 @@ export default defineConfig({
         //},
         {
           text: '技能牌',
+          link: '/cards/skills/',
           collapsed: true,
           items: [
-            { text: '技能牌列表', link: '/cards/skills/' },
             { text: '采集', link: '/cards/skills/classic_skill_01' },
             { text: '捕猎', link: '/cards/skills/classic_skill_06' },
             { text: '收获浆果丛', link: '/cards/skills/classic_skill_05'},
@@ -77,9 +88,9 @@ export default defineConfig({
         },
         {
           text: '奇观牌',
+          link: '/cards/wonders/',
           collapsed: true,
           items: [
-            { text: '奇观牌总览', link: '/cards/wonders/' },
             { text: '巨石阵', link: '/cards/wonders/wonder_01' },
             { text: '博览会馆', link: '/cards/wonders/wonder_02' },
             { text: '黄金塔', link: '/cards/wonders/wonder_03' },
@@ -114,12 +125,15 @@ export default defineConfig({
           ]
         },
         {
+          text: '纪念碑',
+          link: '/cards/monuments/',
+          collapsed: true,
+          items: []
+        },
+        {
           text: '领袖迷你扩展',
           collapsed: true,
-          items: [
-            { text: '领袖技能', link: '/cards/faq/general' },
-            { text: '占位符1', link: '/cards/faq/fire-strike' }
-          ]
+          items: []
         }
       ]
     },
