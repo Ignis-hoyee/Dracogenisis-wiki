@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/images/tokens/gold-icon.png' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   ],
   base: "/Dracogenisis-wiki/",
   title: "Dracogenesis Unofficial Wiki",
